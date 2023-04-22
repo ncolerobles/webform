@@ -1,0 +1,57 @@
+.start{
+	width: 400px;
+	height: 550px;
+	text-align: center;
+	background-color: rgba(255, 255, 255, .55);
+	opacity: 1;
+	margin: 50px 0 0 550px;
+	overflow: hidden;
+	
+}
+
+ h1{
+ 	margin: 0;
+ 	padding: 0;
+ 	
+ }
+
+.bg{
+		background-image: url(smitmainbuilding.jpg);
+		background-size: cover;
+		width: 100%;
+		height: 20px;
+		margin: 0;
+		padding: 0;
+}
+.img{
+	width: 100px;
+	height: 90px;
+	border: none;
+	opacity: .7;
+}
+.txtbox{
+	margin-top: 10px;
+	background: white;
+	text-align: start;
+	font-size: 16px;
+	font-family: Lucida Console;
+	height: 30px;
+	width: 300px;
+	padding: 15px;
+	border-radius: 15px;
+	
+	
+}
+.btn {
+	width: 200px;
+	height: 30px;
+	border-radius: 10px;
+	font-size: 18px;
+	font-family: Lucida Console;
+	font-weight: bold;
+	background-color: gray;
+	text-align: center;
+	
+	
+
+}
